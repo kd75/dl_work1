@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- hogee -->
 <dataset>
   <images>
     <image file="0.jpg">
@@ -36210,17 +36209,199 @@
         <label>leaf_branch</label>
       </box>
     </image>
-    <image file="373.jpg" />
-    <image file="3730.jpg" />
-    <image file="3731.jpg" />
-    <image file="3732.jpg" />
-    <image file="3733.jpg" />
-    <image file="3734.jpg" />
-    <image file="3735.jpg" />
-    <image file="3736.jpg" />
-    <image file="3737.jpg" />
-    <image file="3738.jpg" />
-    <image file="3739.jpg" />
+    <image file="373.jpg">
+      <box top="251" left="40" width="44" height="48">
+        <label>fruit</label>
+      </box>
+      <box top="422" left="74" width="54" height="57">
+        <label>fruit</label>
+      </box>
+      <box top="409" left="122" width="38" height="51">
+        <label>fruit</label>
+      </box>
+    </image>
+    <image file="3730.jpg">
+      <box top="270" left="71" width="98" height="67">
+        <label>leaf_branch</label>
+      </box>
+      <box top="119" left="42" width="72" height="88">
+        <label>leaf_branch</label>
+      </box>
+      <box top="306" left="2" width="70" height="68">
+        <label>fruit</label>
+      </box>
+      <box top="106" left="342" width="77" height="87">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3731.jpg">
+      <box top="312" left="135" width="80" height="68">
+        <label>fruit</label>
+      </box>
+      <box top="190" left="119" width="40" height="40">
+        <label>fruit</label>
+      </box>
+      <box top="176" left="70" width="66" height="113">
+        <label>leaf_branch</label>
+      </box>
+      <box top="97" left="128" width="59" height="105">
+        <label>leaf_branch</label>
+      </box>
+      <box top="125" left="178" width="57" height="56">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3732.jpg">
+      <box top="231" left="233" width="115" height="74">
+        <label>leaf_branch</label>
+      </box>
+      <box top="82" left="250" width="56" height="115">
+        <label>leaf_branch</label>
+      </box>
+      <box top="309" left="319" width="65" height="64">
+        <label>fruit</label>
+      </box>
+      <box top="186" left="236" width="41" height="38">
+        <label>fruit</label>
+      </box>
+    </image>
+    <image file="3733.jpg">
+      <box top="312" left="113" width="68" height="71">
+        <label>fruit</label>
+      </box>
+      <box top="199" left="101" width="36" height="38">
+        <label>fruit</label>
+      </box>
+      <box top="253" left="56" width="131" height="65">
+        <label>leaf_branch</label>
+      </box>
+      <box top="112" left="106" width="74" height="86">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3734.jpg">
+      <box top="309" left="0" width="73" height="62">
+        <label>fruit</label>
+      </box>
+      <box top="202" left="27" width="34" height="33">
+        <label>fruit</label>
+      </box>
+      <box top="121" left="28" width="74" height="88">
+        <label>leaf_branch</label>
+      </box>
+      <box top="135" left="282" width="61" height="87">
+        <label>leaf_branch</label>
+      </box>
+      <box top="92" left="332" width="87" height="103">
+        <label>leaf_branch</label>
+      </box>
+      <box top="253" left="76" width="98" height="82">
+        <label>leaf_branch</label>
+      </box>
+      <box top="63" left="104" width="49" height="61">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3735.jpg">
+      <box top="96" left="22" width="84" height="61">
+        <label>leaf_branch</label>
+      </box>
+      <box top="131" left="72" width="48" height="58">
+        <label>leaf_branch</label>
+      </box>
+      <box top="246" left="21" width="98" height="94">
+        <label>leaf_branch</label>
+      </box>
+      <box top="273" left="305" width="72" height="88">
+        <label>leaf_branch</label>
+      </box>
+      <box top="144" left="250" width="50" height="64">
+        <label>leaf_branch</label>
+      </box>
+      <box top="75" left="278" width="102" height="120">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3736.jpg">
+      <box top="275" left="398" width="55" height="46">
+        <label>fruit</label>
+      </box>
+      <box top="319" left="391" width="52" height="44">
+        <label>fruit</label>
+      </box>
+      <box top="229" left="91" width="145" height="85">
+        <label>leaf_branch</label>
+      </box>
+      <box top="80" left="157" width="106" height="134">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3737.jpg">
+      <box top="231" left="297" width="72" height="46">
+        <label>leaf_branch</label>
+      </box>
+      <box top="277" left="259" width="52" height="47">
+        <label>fruit</label>
+      </box>
+      <box top="322" left="247" width="50" height="40">
+        <label>fruit</label>
+      </box>
+      <box top="326" left="297" width="86" height="77">
+        <label>leaf_branch</label>
+      </box>
+      <box top="210" left="195" width="119" height="81">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3738.jpg">
+      <box top="214" left="109" width="111" height="59">
+        <label>leaf_branch</label>
+      </box>
+      <box top="229" left="204" width="84" height="66">
+        <label>leaf_branch</label>
+      </box>
+      <box top="281" left="155" width="52" height="49">
+        <label>fruit</label>
+      </box>
+      <box top="324" left="142" width="45" height="38">
+        <label>fruit</label>
+      </box>
+      <box top="324" left="184" width="40" height="37">
+        <label>fruit</label>
+      </box>
+      <box top="164" left="464" width="35" height="47">
+        <label>fruit</label>
+      </box>
+      <box top="114" left="197" width="53" height="41">
+        <label>leaf_branch</label>
+      </box>
+      <box top="103" left="170" width="40" height="46">
+        <label>leaf_branch</label>
+      </box>
+    </image>
+    <image file="3739.jpg">
+      <box top="240" left="93" width="86" height="47">
+        <label>leaf_branch</label>
+      </box>
+      <box top="110" left="127" width="57" height="50">
+        <label>leaf_branch</label>
+      </box>
+      <box top="130" left="72" width="54" height="77">
+        <label>leaf_branch</label>
+      </box>
+      <box top="206" left="0" width="114" height="73">
+        <label>leaf_branch</label>
+      </box>
+      <box top="286" left="36" width="54" height="37">
+        <label>fruit</label>
+      </box>
+      <box top="320" left="23" width="47" height="38">
+        <label>fruit</label>
+      </box>
+      <box top="322" left="69" width="49" height="35">
+        <label>fruit</label>
+      </box>
+    </image>
     <image file="374.jpg" />
     <image file="3740.jpg" />
     <image file="3741.jpg" />
